@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int  main() {
   
     int angka[5];
     int jumlah = 0;
@@ -19,4 +19,4 @@ int main() {
     cout << "Jumlah semua elemen adalah: " << jumlah << endl;
 
     return 0;
-}
+} 
